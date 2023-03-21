@@ -5,7 +5,6 @@ export default function WriteMessage() {
     <div className="bg-white flex justify-between px-3 items-center">
       <textarea
         maxLength={250}
-        type="text"
         placeholder="Write something here"
         className="text-black w-[400px] break-all resize-none scrollbar-hide outline-none"
       />
